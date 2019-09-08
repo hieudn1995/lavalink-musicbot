@@ -1,6 +1,6 @@
 { 
-    "token": "Your bot token here.",
-    "prefix": "Insert a prefix like '!' or anything.",
+    "token": "NjA4NTM3ODY0OTQyMzg3MjMx.XXNV1w.NGoO-HLmj9LzQ8obEGhhOieCQgk",
+    "prefix": "-",
     "nodes": [
         { "host": "localhost", "port": 2333, "password": "youshallnotpass" }
     ]
